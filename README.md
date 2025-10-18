@@ -23,7 +23,7 @@ Su objetivo es proporcionar un servicio API funcional y seguro, con manejo de us
 ##  Instalación y ejecución
 
 1️⃣ Clonar el repositorio**
-git clone [https://github.com/usuario/CursosDeportivos_Backend.git](https://github.com/usuario/CursosDeportivos_Backend.git)
+git clone [https://github.com/Brayan-daniel/CursosDeportivos_Backen.git](https://github.com/Brayan-daniel/CursosDeportivos_Backen.git)
 cd CursosDeportivos_Backend
 
 2️⃣ Instalar dependencias**
